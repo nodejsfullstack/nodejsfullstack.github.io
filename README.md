@@ -1,4 +1,4 @@
-# node-fullstack-enterprice
+# Node全栈-企业培训
 
 ## 一、课程简介及收益
  
@@ -242,3 +242,8 @@ Mr. Sang
 - 使用VSCode编辑器
 - 安装Mongodb数据库
 - 安装Node.js（NVM、NPM、NRM）
+
+
+## 联系我
+
+![1.Pic](1.pic.jpg)
