@@ -227,7 +227,7 @@
  
 ## 三、讲师简介
 
-Mr. Sang
+桑世龙（网名i5ting，江湖人称狼叔），前XX公司CTO，StuQ 明星讲师，开源项目 Moajs 作者，Node.js 技术布道者 曾就职在新浪、网秦，曾做过前端、后端、数据分析、移动端负责人、做过首席架构师、技术总监，全栈技术实践者，目前主要关注技术架构和团队梯队建设方向。
 
 - Node.js 技术传道者，开源项目 Moajs 作者
 - 现任大型互联网公司架构师，曾任CTO,首席、架构师和团队管理，曾供职网秦、新浪
@@ -242,6 +242,11 @@ Mr. Sang
 - 使用VSCode编辑器
 - 安装Mongodb数据库
 - 安装Node.js（NVM、NPM、NRM）
+
+## 五、参考
+
+- [高可用架构专用《全栈工程师之路-Node.js》](https://github.com/i5ting/nodejs-fullstack)
+- [i5ting个人简历](https://github.com/i5ting/i5ting)
 
 ## 联系我
 
