@@ -243,7 +243,10 @@ Mr. Sang
 - 安装Mongodb数据库
 - 安装Node.js（NVM、NPM、NRM）
 
-
 ## 联系我
 
-![1.Pic](1.pic.jpg)
+如果想培训，请邮寄给我i5ting@126.com。
+
+如果想学习Node.js，请加入小密圈
+
+![Connect](connect.jpg)
